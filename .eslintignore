@@ -1,0 +1,4 @@
+config.js
+karma.config.js
+lib/**
+jspm_packages/**
